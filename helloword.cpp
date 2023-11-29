@@ -2,6 +2,6 @@
 using namaspace std;
 void main(){
 
-cout<<"hello word"<<endl;
+cout<<"hello word"<<"ni hao"<<endl;
 system("pause");
 }
